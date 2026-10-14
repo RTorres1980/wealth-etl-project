@@ -1,0 +1,3169 @@
+{
+ "source": "custodian_feed",
+ "transactions": [
+  {
+   "transaction_id": 5001,
+   "account_id": 101,
+   "date": "2025-07-24",
+   "amount": 13160.13,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5002,
+   "account_id": 101,
+   "date": "2025-09-16",
+   "amount": 16389.41,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5003,
+   "account_id": 102,
+   "date": "2025-03-08",
+   "amount": 16682.25,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5004,
+   "account_id": 102,
+   "date": "2025-03-22",
+   "amount": 2498.17,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5005,
+   "account_id": 102,
+   "date": "2025-04-14",
+   "amount": 2288.18,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5006,
+   "account_id": 102,
+   "date": "2025-01-28",
+   "amount": 481.69,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5007,
+   "account_id": 103,
+   "date": "2025-08-28",
+   "amount": -4512.61,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5008,
+   "account_id": 103,
+   "date": "2025-09-18",
+   "amount": 2371.75,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5009,
+   "account_id": 103,
+   "date": "2025-06-19",
+   "amount": 9547.51,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5010,
+   "account_id": 103,
+   "date": "2025-08-20",
+   "amount": 7770.57,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5011,
+   "account_id": 103,
+   "date": "2025-03-21",
+   "amount": 2132.58,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5012,
+   "account_id": 103,
+   "date": "2025-07-03",
+   "amount": 14947.66,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5013,
+   "account_id": 103,
+   "date": "2025-09-19",
+   "amount": -10156.15,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5014,
+   "account_id": 103,
+   "date": "2025-05-25",
+   "amount": 1606.86,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5015,
+   "account_id": 104,
+   "date": "2025-01-03",
+   "amount": 13895.31,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5016,
+   "account_id": 104,
+   "date": "2025-09-13",
+   "amount": 2469.41,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5017,
+   "account_id": 104,
+   "date": "2025-05-29",
+   "amount": -5603.8,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5018,
+   "account_id": 104,
+   "date": "2025-06-17",
+   "amount": -9127.14,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5019,
+   "account_id": 104,
+   "date": "2025-02-14",
+   "amount": 4639.48,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5020,
+   "account_id": 105,
+   "date": "2025-05-25",
+   "amount": -1329.95,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5021,
+   "account_id": 105,
+   "date": "2025-08-21",
+   "amount": -103.22,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5022,
+   "account_id": 105,
+   "date": "2025-06-08",
+   "amount": 19311.84,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5023,
+   "account_id": 105,
+   "date": "2025-07-18",
+   "amount": 10684.7,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5024,
+   "account_id": 105,
+   "date": "2025-04-20",
+   "amount": 17745.28,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5025,
+   "account_id": 105,
+   "date": "2025-01-28",
+   "amount": -10567.86,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5026,
+   "account_id": 105,
+   "date": "2025-08-24",
+   "amount": -522.39,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5027,
+   "account_id": 106,
+   "date": "2025-05-09",
+   "amount": 129.68,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5028,
+   "account_id": 106,
+   "date": "2025-08-20",
+   "amount": 1101.89,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5029,
+   "account_id": 106,
+   "date": "2025-07-12",
+   "amount": 21727.76,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5030,
+   "account_id": 106,
+   "date": "2025-02-01",
+   "amount": 1177.53,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5031,
+   "account_id": 106,
+   "date": "2025-06-30",
+   "amount": 12435.52,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5032,
+   "account_id": 106,
+   "date": "2025-08-07",
+   "amount": -11466.04,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5033,
+   "account_id": 106,
+   "date": "2025-09-21",
+   "amount": 13796.57,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5034,
+   "account_id": 107,
+   "date": "2025-06-30",
+   "amount": 16475.8,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5035,
+   "account_id": 107,
+   "date": "2025-02-18",
+   "amount": 11142.85,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5036,
+   "account_id": 107,
+   "date": "2025-01-04",
+   "amount": 834.99,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5037,
+   "account_id": 107,
+   "date": "2025-06-01",
+   "amount": 668.63,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5038,
+   "account_id": 107,
+   "date": "2025-05-06",
+   "amount": 1521.5,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5039,
+   "account_id": 108,
+   "date": "2025-01-29",
+   "amount": 1181.39,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5040,
+   "account_id": 108,
+   "date": "2025-08-12",
+   "amount": 2609.73,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5041,
+   "account_id": 108,
+   "date": "2025-07-08",
+   "amount": 2214.99,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5042,
+   "account_id": 109,
+   "date": "2025-05-05",
+   "amount": -2826.86,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5043,
+   "account_id": 109,
+   "date": "2025-04-12",
+   "amount": -684.73,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5044,
+   "account_id": 109,
+   "date": "2025-07-02",
+   "amount": 1233.54,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5045,
+   "account_id": 109,
+   "date": "2025-04-07",
+   "amount": 20973.65,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5046,
+   "account_id": 109,
+   "date": "2025-06-25",
+   "amount": 6489.13,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5047,
+   "account_id": 109,
+   "date": "2025-03-04",
+   "amount": -14169.06,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5048,
+   "account_id": 109,
+   "date": "2025-02-03",
+   "amount": 15313.19,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5049,
+   "account_id": 109,
+   "date": "2025-04-09",
+   "amount": 260.24,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5050,
+   "account_id": 110,
+   "date": "2025-05-07",
+   "amount": 14893.37,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5051,
+   "account_id": 110,
+   "date": "2025-08-07",
+   "amount": -3994.26,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5052,
+   "account_id": 110,
+   "date": "2025-02-27",
+   "amount": 306.05,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5053,
+   "account_id": 110,
+   "date": "2025-06-23",
+   "amount": 1880.41,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5054,
+   "account_id": 110,
+   "date": "2025-02-21",
+   "amount": 1614.63,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5055,
+   "account_id": 110,
+   "date": "2025-09-24",
+   "amount": -903.44,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5056,
+   "account_id": 110,
+   "date": "2025-07-17",
+   "amount": 1144.82,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5057,
+   "account_id": 111,
+   "date": "2025-04-26",
+   "amount": 1502.48,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5058,
+   "account_id": 111,
+   "date": "2025-04-04",
+   "amount": -16385.18,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5059,
+   "account_id": 111,
+   "date": "2025-04-28",
+   "amount": 2087.76,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5060,
+   "account_id": 111,
+   "date": "2025-04-11",
+   "amount": -4537.89,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5061,
+   "account_id": 111,
+   "date": "2025-08-09",
+   "amount": 829.98,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5062,
+   "account_id": 111,
+   "date": "2025-07-09",
+   "amount": 12906.41,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5063,
+   "account_id": 111,
+   "date": "2025-04-03",
+   "amount": -19029.82,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5064,
+   "account_id": 111,
+   "date": "2025-01-11",
+   "amount": 20175.08,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5065,
+   "account_id": 111,
+   "date": "2025-07-24",
+   "amount": 2366.73,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5066,
+   "account_id": 112,
+   "date": "2025-04-05",
+   "amount": 555.75,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5067,
+   "account_id": 112,
+   "date": "2025-04-14",
+   "amount": -14161.76,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5068,
+   "account_id": 112,
+   "date": "2025-02-02",
+   "amount": -17575.63,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5069,
+   "account_id": 112,
+   "date": "2025-05-27",
+   "amount": 20024.96,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5070,
+   "account_id": 112,
+   "date": "2025-02-13",
+   "amount": 18143.45,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5071,
+   "account_id": 112,
+   "date": "2025-03-24",
+   "amount": 1200.22,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5072,
+   "account_id": 113,
+   "date": "2025-09-10",
+   "amount": -769.56,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5073,
+   "account_id": 113,
+   "date": "2025-07-16",
+   "amount": 19667.91,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5074,
+   "account_id": 113,
+   "date": "2025-02-09",
+   "amount": 13500.95,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5075,
+   "account_id": 113,
+   "date": "2025-09-21",
+   "amount": 15916.51,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5076,
+   "account_id": 113,
+   "date": "2025-02-19",
+   "amount": 12273.84,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5077,
+   "account_id": 113,
+   "date": "2025-08-03",
+   "amount": 24167.99,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5078,
+   "account_id": 113,
+   "date": "2025-07-18",
+   "amount": 16272.43,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5079,
+   "account_id": 113,
+   "date": "2025-08-24",
+   "amount": 18805.35,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5080,
+   "account_id": 113,
+   "date": "2025-09-20",
+   "amount": -16525.44,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5081,
+   "account_id": 114,
+   "date": "2025-01-26",
+   "amount": 2134.2,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5082,
+   "account_id": 114,
+   "date": "2025-01-16",
+   "amount": 407.15,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5083,
+   "account_id": 115,
+   "date": "2025-07-19",
+   "amount": 10694.49,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5084,
+   "account_id": 115,
+   "date": "2025-09-25",
+   "amount": 408.57,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5085,
+   "account_id": 115,
+   "date": "2025-05-05",
+   "amount": 2562.98,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5086,
+   "account_id": 115,
+   "date": "2025-08-18",
+   "amount": 11941.35,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5087,
+   "account_id": 116,
+   "date": "2025-03-14",
+   "amount": 12707.6,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5088,
+   "account_id": 116,
+   "date": "2025-06-30",
+   "amount": 17979.11,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5089,
+   "account_id": 116,
+   "date": "2025-04-25",
+   "amount": 15011.38,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5090,
+   "account_id": 116,
+   "date": "2025-03-19",
+   "amount": 18776.89,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5091,
+   "account_id": 116,
+   "date": "2025-07-03",
+   "amount": 936.61,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5092,
+   "account_id": 116,
+   "date": "2025-05-18",
+   "amount": 15135.53,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5093,
+   "account_id": 117,
+   "date": "2025-06-02",
+   "amount": 4205.27,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5094,
+   "account_id": 117,
+   "date": "2025-03-15",
+   "amount": 1375.32,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5095,
+   "account_id": 117,
+   "date": "2025-02-05",
+   "amount": -4035.18,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5096,
+   "account_id": 117,
+   "date": "2025-05-18",
+   "amount": 7980.23,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5097,
+   "account_id": 118,
+   "date": "2025-02-09",
+   "amount": -1944.77,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5098,
+   "account_id": 118,
+   "date": "2025-01-28",
+   "amount": 1310.54,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5099,
+   "account_id": 118,
+   "date": "2025-02-25",
+   "amount": 1828.0,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5100,
+   "account_id": 118,
+   "date": "2025-01-21",
+   "amount": 16280.26,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5101,
+   "account_id": 118,
+   "date": "2025-05-02",
+   "amount": -5712.44,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5102,
+   "account_id": 118,
+   "date": "2025-07-14",
+   "amount": 7133.08,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5103,
+   "account_id": 118,
+   "date": "2025-02-06",
+   "amount": 1926.31,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5104,
+   "account_id": 118,
+   "date": "2025-07-15",
+   "amount": -1117.27,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5105,
+   "account_id": 118,
+   "date": "2025-02-22",
+   "amount": 16619.9,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5106,
+   "account_id": 119,
+   "date": "2025-03-28",
+   "amount": 2022.03,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5107,
+   "account_id": 119,
+   "date": "2025-08-08",
+   "amount": 2870.9,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5108,
+   "account_id": 119,
+   "date": "2025-07-30",
+   "amount": 2805.22,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5109,
+   "account_id": 119,
+   "date": "2025-04-11",
+   "amount": 17917.96,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5110,
+   "account_id": 119,
+   "date": "2025-07-19",
+   "amount": 359.71,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5111,
+   "account_id": 119,
+   "date": "2025-04-09",
+   "amount": -13136.53,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5112,
+   "account_id": 119,
+   "date": "2025-07-25",
+   "amount": -985.71,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5113,
+   "account_id": 120,
+   "date": "2025-05-11",
+   "amount": 4391.13,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5114,
+   "account_id": 120,
+   "date": "2025-08-14",
+   "amount": 1907.66,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5115,
+   "account_id": 120,
+   "date": "2025-02-27",
+   "amount": -783.47,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5116,
+   "account_id": 120,
+   "date": "2025-05-16",
+   "amount": -968.69,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5117,
+   "account_id": 120,
+   "date": "2025-09-18",
+   "amount": 16466.56,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5118,
+   "account_id": 121,
+   "date": "2025-05-27",
+   "amount": -19666.67,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5119,
+   "account_id": 121,
+   "date": "2025-07-07",
+   "amount": 5554.54,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5120,
+   "account_id": 121,
+   "date": "2025-05-09",
+   "amount": 911.72,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5121,
+   "account_id": 121,
+   "date": "2025-04-10",
+   "amount": 12032.41,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5122,
+   "account_id": 121,
+   "date": "2025-09-19",
+   "amount": -18222.68,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5123,
+   "account_id": 121,
+   "date": "2025-09-12",
+   "amount": 23258.48,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5124,
+   "account_id": 121,
+   "date": "2025-04-25",
+   "amount": 16972.44,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5125,
+   "account_id": 121,
+   "date": "2025-07-02",
+   "amount": 2634.48,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5126,
+   "account_id": 121,
+   "date": "2025-01-29",
+   "amount": -11303.58,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5127,
+   "account_id": 122,
+   "date": "2025-07-09",
+   "amount": 22239.53,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5128,
+   "account_id": 122,
+   "date": "2025-09-23",
+   "amount": 2473.81,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5129,
+   "account_id": 122,
+   "date": "2025-01-19",
+   "amount": 1714.19,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5130,
+   "account_id": 122,
+   "date": "2025-08-19",
+   "amount": -16165.44,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5131,
+   "account_id": 122,
+   "date": "2025-06-23",
+   "amount": 2210.28,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5132,
+   "account_id": 123,
+   "date": "2025-02-04",
+   "amount": -150.62,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5133,
+   "account_id": 123,
+   "date": "2025-06-13",
+   "amount": 181.7,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5134,
+   "account_id": 123,
+   "date": "2025-06-14",
+   "amount": 3577.83,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5135,
+   "account_id": 123,
+   "date": "2025-03-10",
+   "amount": 8028.57,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5136,
+   "account_id": 123,
+   "date": "2025-07-11",
+   "amount": -13379.15,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5137,
+   "account_id": 123,
+   "date": "2025-04-22",
+   "amount": -595.66,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5138,
+   "account_id": 123,
+   "date": "2025-05-09",
+   "amount": 1188.25,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5139,
+   "account_id": 124,
+   "date": "2025-05-21",
+   "amount": 3652.43,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5140,
+   "account_id": 124,
+   "date": "2025-05-24",
+   "amount": 2631.22,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5141,
+   "account_id": 124,
+   "date": "2025-05-08",
+   "amount": 19278.97,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5142,
+   "account_id": 124,
+   "date": "2025-07-18",
+   "amount": 15377.68,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5143,
+   "account_id": 124,
+   "date": "2025-02-22",
+   "amount": 1901.12,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5144,
+   "account_id": 124,
+   "date": "2025-07-18",
+   "amount": 23099.88,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5145,
+   "account_id": 124,
+   "date": "2025-08-07",
+   "amount": 23809.35,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5146,
+   "account_id": 124,
+   "date": "2025-02-06",
+   "amount": 18657.89,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5147,
+   "account_id": 124,
+   "date": "2025-04-24",
+   "amount": 1150.76,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5148,
+   "account_id": 125,
+   "date": "2025-04-15",
+   "amount": -486.74,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5149,
+   "account_id": 125,
+   "date": "2025-03-09",
+   "amount": 250.97,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5150,
+   "account_id": 125,
+   "date": "2025-07-16",
+   "amount": 9892.08,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5151,
+   "account_id": 125,
+   "date": "2025-05-16",
+   "amount": 2615.73,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5152,
+   "account_id": 125,
+   "date": "2025-06-17",
+   "amount": 2336.98,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5153,
+   "account_id": 125,
+   "date": "2025-09-19",
+   "amount": 15690.79,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5154,
+   "account_id": 126,
+   "date": "2025-06-10",
+   "amount": 2166.39,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5155,
+   "account_id": 126,
+   "date": "2025-03-23",
+   "amount": -1353.36,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5156,
+   "account_id": 126,
+   "date": "2025-09-12",
+   "amount": 1479.98,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5157,
+   "account_id": 126,
+   "date": "2025-07-04",
+   "amount": 11243.59,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5158,
+   "account_id": 126,
+   "date": "2025-09-10",
+   "amount": 1526.96,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5159,
+   "account_id": 126,
+   "date": "2025-03-03",
+   "amount": -874.33,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5160,
+   "account_id": 126,
+   "date": "2025-01-24",
+   "amount": -18398.84,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5161,
+   "account_id": 126,
+   "date": "2025-05-10",
+   "amount": 14922.27,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5162,
+   "account_id": 127,
+   "date": "2025-03-07",
+   "amount": -972.89,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5163,
+   "account_id": 127,
+   "date": "2025-08-09",
+   "amount": 2830.89,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5164,
+   "account_id": 127,
+   "date": "2025-07-18",
+   "amount": -871.53,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5165,
+   "account_id": 127,
+   "date": "2025-01-08",
+   "amount": -4220.67,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5166,
+   "account_id": 127,
+   "date": "2025-02-17",
+   "amount": -18856.75,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5167,
+   "account_id": 127,
+   "date": "2025-03-02",
+   "amount": 682.45,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5168,
+   "account_id": 127,
+   "date": "2025-05-24",
+   "amount": 1482.03,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5169,
+   "account_id": 127,
+   "date": "2025-05-26",
+   "amount": 21810.68,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5170,
+   "account_id": 127,
+   "date": "2025-02-22",
+   "amount": -10717.32,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5171,
+   "account_id": 128,
+   "date": "2025-06-25",
+   "amount": 155.04,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5172,
+   "account_id": 128,
+   "date": "2025-09-07",
+   "amount": 2835.57,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5173,
+   "account_id": 128,
+   "date": "2025-02-15",
+   "amount": 2003.32,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5174,
+   "account_id": 129,
+   "date": "2025-05-16",
+   "amount": 1382.73,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5175,
+   "account_id": 129,
+   "date": "2025-07-31",
+   "amount": 4988.93,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5176,
+   "account_id": 129,
+   "date": "2025-09-26",
+   "amount": 1473.9,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5177,
+   "account_id": 129,
+   "date": "2025-08-05",
+   "amount": 1384.19,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5178,
+   "account_id": 129,
+   "date": "2025-07-03",
+   "amount": -15538.65,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5179,
+   "account_id": 129,
+   "date": "2025-07-01",
+   "amount": 54.73,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5180,
+   "account_id": 129,
+   "date": "2025-08-08",
+   "amount": 2849.75,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5181,
+   "account_id": 129,
+   "date": "2025-01-06",
+   "amount": -19390.13,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5182,
+   "account_id": 130,
+   "date": "2025-05-28",
+   "amount": -319.41,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5183,
+   "account_id": 130,
+   "date": "2025-04-06",
+   "amount": 1749.96,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5184,
+   "account_id": 130,
+   "date": "2025-03-31",
+   "amount": 17703.71,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5185,
+   "account_id": 130,
+   "date": "2025-02-12",
+   "amount": 10630.33,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5186,
+   "account_id": 130,
+   "date": "2025-07-26",
+   "amount": 16458.93,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5187,
+   "account_id": 130,
+   "date": "2025-06-28",
+   "amount": 2940.71,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5188,
+   "account_id": 130,
+   "date": "2025-09-23",
+   "amount": 755.07,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5189,
+   "account_id": 130,
+   "date": "2025-03-08",
+   "amount": 2764.74,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5190,
+   "account_id": 131,
+   "date": "2025-05-04",
+   "amount": 23011.74,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5191,
+   "account_id": 131,
+   "date": "2025-02-16",
+   "amount": 22867.98,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5192,
+   "account_id": 131,
+   "date": "2025-01-16",
+   "amount": 2448.1,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5193,
+   "account_id": 131,
+   "date": "2025-09-17",
+   "amount": 16633.7,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5194,
+   "account_id": 131,
+   "date": "2025-05-04",
+   "amount": -1391.83,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5195,
+   "account_id": 131,
+   "date": "2025-09-13",
+   "amount": -17889.14,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5196,
+   "account_id": 131,
+   "date": "2025-02-03",
+   "amount": 2198.9,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5197,
+   "account_id": 131,
+   "date": "2025-01-01",
+   "amount": -3064.69,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5198,
+   "account_id": 132,
+   "date": "2025-04-05",
+   "amount": 6719.2,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5199,
+   "account_id": 132,
+   "date": "2025-06-22",
+   "amount": 13537.53,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5200,
+   "account_id": 133,
+   "date": "2025-08-08",
+   "amount": 6985.13,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5201,
+   "account_id": 133,
+   "date": "2025-02-14",
+   "amount": 792.49,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5202,
+   "account_id": 134,
+   "date": "2025-05-28",
+   "amount": 2610.84,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5203,
+   "account_id": 134,
+   "date": "2025-05-01",
+   "amount": -762.6,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5204,
+   "account_id": 134,
+   "date": "2025-05-06",
+   "amount": 1394.85,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5205,
+   "account_id": 135,
+   "date": "2025-04-06",
+   "amount": 233.39,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5206,
+   "account_id": 135,
+   "date": "2025-04-28",
+   "amount": 17061.94,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5207,
+   "account_id": 135,
+   "date": "2025-02-13",
+   "amount": 399.55,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5208,
+   "account_id": 136,
+   "date": "2025-02-17",
+   "amount": 21154.01,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5209,
+   "account_id": 136,
+   "date": "2025-06-21",
+   "amount": -19291.06,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5210,
+   "account_id": 136,
+   "date": "2025-07-20",
+   "amount": 19691.91,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5211,
+   "account_id": 136,
+   "date": "2025-06-29",
+   "amount": 14055.34,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5212,
+   "account_id": 136,
+   "date": "2025-07-07",
+   "amount": -60.56,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5213,
+   "account_id": 136,
+   "date": "2025-09-24",
+   "amount": -13839.67,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5214,
+   "account_id": 136,
+   "date": "2025-01-09",
+   "amount": -16585.2,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5215,
+   "account_id": 136,
+   "date": "2025-09-05",
+   "amount": 7404.28,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5216,
+   "account_id": 136,
+   "date": "2025-05-03",
+   "amount": 1693.09,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5217,
+   "account_id": 137,
+   "date": "2025-07-24",
+   "amount": 2335.11,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5218,
+   "account_id": 137,
+   "date": "2025-09-05",
+   "amount": -824.85,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5219,
+   "account_id": 137,
+   "date": "2025-07-22",
+   "amount": 1461.47,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5220,
+   "account_id": 137,
+   "date": "2025-06-26",
+   "amount": 13729.58,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5221,
+   "account_id": 137,
+   "date": "2025-07-24",
+   "amount": 1003.6,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5222,
+   "account_id": 138,
+   "date": "2025-09-07",
+   "amount": -4021.5,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5223,
+   "account_id": 138,
+   "date": "2025-06-18",
+   "amount": -1647.91,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5224,
+   "account_id": 139,
+   "date": "2025-08-15",
+   "amount": -6816.94,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5225,
+   "account_id": 139,
+   "date": "2025-01-02",
+   "amount": -6355.32,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5226,
+   "account_id": 139,
+   "date": "2025-05-17",
+   "amount": 22187.13,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5227,
+   "account_id": 139,
+   "date": "2025-03-26",
+   "amount": 18440.07,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5228,
+   "account_id": 139,
+   "date": "2025-01-06",
+   "amount": 655.76,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5229,
+   "account_id": 139,
+   "date": "2025-06-02",
+   "amount": -19000.86,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5230,
+   "account_id": 140,
+   "date": "2025-03-11",
+   "amount": -11271.04,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5231,
+   "account_id": 140,
+   "date": "2025-08-04",
+   "amount": 2906.37,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5232,
+   "account_id": 140,
+   "date": "2025-09-11",
+   "amount": 2165.47,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5233,
+   "account_id": 140,
+   "date": "2025-09-05",
+   "amount": 927.78,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5234,
+   "account_id": 140,
+   "date": "2025-08-23",
+   "amount": 3004.34,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5235,
+   "account_id": 140,
+   "date": "2025-07-08",
+   "amount": -292.37,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5236,
+   "account_id": 140,
+   "date": "2025-02-19",
+   "amount": -7143.82,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5237,
+   "account_id": 140,
+   "date": "2025-03-30",
+   "amount": 7008.99,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5238,
+   "account_id": 141,
+   "date": "2025-01-24",
+   "amount": -6469.46,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5239,
+   "account_id": 141,
+   "date": "2025-08-08",
+   "amount": -6374.82,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5240,
+   "account_id": 141,
+   "date": "2025-03-02",
+   "amount": 982.94,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5241,
+   "account_id": 142,
+   "date": "2025-06-29",
+   "amount": 7144.22,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5242,
+   "account_id": 142,
+   "date": "2025-03-14",
+   "amount": -19858.55,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5243,
+   "account_id": 142,
+   "date": "2025-02-25",
+   "amount": 6637.2,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5244,
+   "account_id": 142,
+   "date": "2025-07-09",
+   "amount": 1266.04,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5245,
+   "account_id": 142,
+   "date": "2025-01-07",
+   "amount": -1156.63,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5246,
+   "account_id": 142,
+   "date": "2025-04-06",
+   "amount": -11968.65,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5247,
+   "account_id": 142,
+   "date": "2025-02-14",
+   "amount": 2726.29,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5248,
+   "account_id": 142,
+   "date": "2025-06-12",
+   "amount": 770.06,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5249,
+   "account_id": 142,
+   "date": "2025-01-13",
+   "amount": -266.27,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5250,
+   "account_id": 143,
+   "date": "2025-06-02",
+   "amount": -19112.36,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5251,
+   "account_id": 143,
+   "date": "2025-08-05",
+   "amount": 2689.72,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5252,
+   "account_id": 143,
+   "date": "2025-06-20",
+   "amount": -440.57,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5253,
+   "account_id": 143,
+   "date": "2025-05-24",
+   "amount": -821.3,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5254,
+   "account_id": 143,
+   "date": "2025-08-13",
+   "amount": 2373.41,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5255,
+   "account_id": 144,
+   "date": "2025-09-15",
+   "amount": 1198.58,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5256,
+   "account_id": 144,
+   "date": "2025-01-22",
+   "amount": -1226.1,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5257,
+   "account_id": 144,
+   "date": "2025-04-23",
+   "amount": 22849.05,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5258,
+   "account_id": 144,
+   "date": "2025-09-14",
+   "amount": 4407.75,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5259,
+   "account_id": 144,
+   "date": "2025-02-22",
+   "amount": 1909.84,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5260,
+   "account_id": 144,
+   "date": "2025-06-02",
+   "amount": 12022.62,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5261,
+   "account_id": 144,
+   "date": "2025-05-02",
+   "amount": -177.73,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5262,
+   "account_id": 144,
+   "date": "2025-08-13",
+   "amount": 1270.29,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5263,
+   "account_id": 144,
+   "date": "2025-04-06",
+   "amount": 3899.17,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5264,
+   "account_id": 145,
+   "date": "2025-02-02",
+   "amount": 19101.49,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5265,
+   "account_id": 145,
+   "date": "2025-02-20",
+   "amount": 2380.81,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5266,
+   "account_id": 145,
+   "date": "2025-05-02",
+   "amount": -683.79,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5267,
+   "account_id": 145,
+   "date": "2025-05-14",
+   "amount": 22054.31,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5268,
+   "account_id": 145,
+   "date": "2025-08-04",
+   "amount": 1931.26,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5269,
+   "account_id": 145,
+   "date": "2025-09-14",
+   "amount": -866.58,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5270,
+   "account_id": 145,
+   "date": "2025-05-14",
+   "amount": 2183.52,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5271,
+   "account_id": 145,
+   "date": "2025-09-18",
+   "amount": 970.18,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5272,
+   "account_id": 146,
+   "date": "2025-02-16",
+   "amount": 2012.45,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5273,
+   "account_id": 146,
+   "date": "2025-03-22",
+   "amount": -1221.51,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5274,
+   "account_id": 146,
+   "date": "2025-05-02",
+   "amount": 2109.23,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5275,
+   "account_id": 146,
+   "date": "2025-02-28",
+   "amount": -10721.26,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5276,
+   "account_id": 146,
+   "date": "2025-08-03",
+   "amount": 9089.51,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5277,
+   "account_id": 146,
+   "date": "2025-08-15",
+   "amount": 8290.09,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5278,
+   "account_id": 146,
+   "date": "2025-04-20",
+   "amount": 4035.38,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5279,
+   "account_id": 146,
+   "date": "2025-06-19",
+   "amount": 19437.6,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5280,
+   "account_id": 146,
+   "date": "2025-06-12",
+   "amount": 1038.64,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5281,
+   "account_id": 147,
+   "date": "2025-07-11",
+   "amount": 3395.47,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5282,
+   "account_id": 147,
+   "date": "2025-03-19",
+   "amount": 269.46,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5283,
+   "account_id": 147,
+   "date": "2025-02-21",
+   "amount": 2120.14,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5284,
+   "account_id": 147,
+   "date": "2025-02-04",
+   "amount": 2146.12,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5285,
+   "account_id": 148,
+   "date": "2025-05-19",
+   "amount": 11061.58,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5286,
+   "account_id": 148,
+   "date": "2025-06-04",
+   "amount": 1711.38,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5287,
+   "account_id": 148,
+   "date": "2025-04-02",
+   "amount": -555.66,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5288,
+   "account_id": 148,
+   "date": "2025-08-11",
+   "amount": 4820.73,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5289,
+   "account_id": 148,
+   "date": "2025-07-13",
+   "amount": 2722.69,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5290,
+   "account_id": 148,
+   "date": "2025-08-01",
+   "amount": 2083.56,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5291,
+   "account_id": 149,
+   "date": "2025-02-26",
+   "amount": -8013.64,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5292,
+   "account_id": 149,
+   "date": "2025-09-06",
+   "amount": 2538.4,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5293,
+   "account_id": 149,
+   "date": "2025-02-08",
+   "amount": 3905.11,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5294,
+   "account_id": 149,
+   "date": "2025-01-21",
+   "amount": 9484.73,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5295,
+   "account_id": 149,
+   "date": "2025-05-12",
+   "amount": -591.17,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5296,
+   "account_id": 150,
+   "date": "2025-07-13",
+   "amount": 19351.73,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5297,
+   "account_id": 150,
+   "date": "2025-09-09",
+   "amount": 1229.11,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5298,
+   "account_id": 150,
+   "date": "2025-04-19",
+   "amount": 21634.37,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5299,
+   "account_id": 150,
+   "date": "2025-07-12",
+   "amount": -765.4,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5300,
+   "account_id": 150,
+   "date": "2025-04-30",
+   "amount": 9744.86,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5301,
+   "account_id": 150,
+   "date": "2025-05-02",
+   "amount": 8535.21,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5302,
+   "account_id": 151,
+   "date": "2025-04-17",
+   "amount": 18226.18,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5303,
+   "account_id": 151,
+   "date": "2025-07-17",
+   "amount": -14507.73,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5304,
+   "account_id": 151,
+   "date": "2025-02-27",
+   "amount": -660.5,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5305,
+   "account_id": 151,
+   "date": "2025-08-11",
+   "amount": 405.21,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5306,
+   "account_id": 151,
+   "date": "2025-06-25",
+   "amount": 2450.22,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5307,
+   "account_id": 151,
+   "date": "2025-09-18",
+   "amount": 1893.59,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5308,
+   "account_id": 152,
+   "date": "2025-01-14",
+   "amount": 24304.41,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5309,
+   "account_id": 152,
+   "date": "2025-09-19",
+   "amount": 917.91,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5310,
+   "account_id": 153,
+   "date": "2025-01-11",
+   "amount": 12582.71,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5311,
+   "account_id": 153,
+   "date": "2025-08-28",
+   "amount": 4594.18,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5312,
+   "account_id": 154,
+   "date": "2025-07-29",
+   "amount": 9640.69,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5313,
+   "account_id": 154,
+   "date": "2025-09-27",
+   "amount": 20007.64,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5314,
+   "account_id": 154,
+   "date": "2025-06-27",
+   "amount": 20548.91,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5315,
+   "account_id": 154,
+   "date": "2025-09-20",
+   "amount": 2884.58,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5316,
+   "account_id": 154,
+   "date": "2025-02-26",
+   "amount": 1792.31,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5317,
+   "account_id": 154,
+   "date": "2025-05-17",
+   "amount": 2673.16,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5318,
+   "account_id": 155,
+   "date": "2025-02-07",
+   "amount": 4280.81,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5319,
+   "account_id": 155,
+   "date": "2025-06-06",
+   "amount": 1997.41,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5320,
+   "account_id": 155,
+   "date": "2025-01-06",
+   "amount": 2600.8,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5321,
+   "account_id": 155,
+   "date": "2025-02-06",
+   "amount": -511.04,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5322,
+   "account_id": 155,
+   "date": "2025-02-05",
+   "amount": -19218.74,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5323,
+   "account_id": 155,
+   "date": "2025-06-06",
+   "amount": 8594.41,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5324,
+   "account_id": 155,
+   "date": "2025-06-16",
+   "amount": 1886.13,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5325,
+   "account_id": 156,
+   "date": "2025-07-31",
+   "amount": 2797.55,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5326,
+   "account_id": 156,
+   "date": "2025-06-27",
+   "amount": 2049.18,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5327,
+   "account_id": 156,
+   "date": "2025-03-17",
+   "amount": 2206.59,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5328,
+   "account_id": 157,
+   "date": "2025-08-25",
+   "amount": -1298.73,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5329,
+   "account_id": 157,
+   "date": "2025-01-02",
+   "amount": 1254.76,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5330,
+   "account_id": 157,
+   "date": "2025-03-08",
+   "amount": -6176.11,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5331,
+   "account_id": 157,
+   "date": "2025-04-06",
+   "amount": 2042.71,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5332,
+   "account_id": 157,
+   "date": "2025-05-26",
+   "amount": 4823.88,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5333,
+   "account_id": 157,
+   "date": "2025-02-18",
+   "amount": 9584.04,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5334,
+   "account_id": 158,
+   "date": "2025-02-21",
+   "amount": 2719.48,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5335,
+   "account_id": 158,
+   "date": "2025-04-08",
+   "amount": 236.5,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5336,
+   "account_id": 159,
+   "date": "2025-04-27",
+   "amount": 16850.61,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5337,
+   "account_id": 159,
+   "date": "2025-07-30",
+   "amount": 471.66,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5338,
+   "account_id": 159,
+   "date": "2025-06-15",
+   "amount": -540.69,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5339,
+   "account_id": 159,
+   "date": "2025-01-09",
+   "amount": -16059.45,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5340,
+   "account_id": 159,
+   "date": "2025-08-14",
+   "amount": 7083.39,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5341,
+   "account_id": 159,
+   "date": "2025-05-30",
+   "amount": 1846.99,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5342,
+   "account_id": 159,
+   "date": "2025-09-22",
+   "amount": 2677.74,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5343,
+   "account_id": 159,
+   "date": "2025-03-10",
+   "amount": -12396.69,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5344,
+   "account_id": 160,
+   "date": "2025-07-22",
+   "amount": -9108.4,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5345,
+   "account_id": 160,
+   "date": "2025-02-11",
+   "amount": 151.71,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5346,
+   "account_id": 160,
+   "date": "2025-09-14",
+   "amount": 996.09,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5347,
+   "account_id": 160,
+   "date": "2025-04-05",
+   "amount": 334.18,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5348,
+   "account_id": 160,
+   "date": "2025-07-24",
+   "amount": -940.46,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5349,
+   "account_id": 160,
+   "date": "2025-04-01",
+   "amount": 22994.62,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5350,
+   "account_id": 161,
+   "date": "2025-03-26",
+   "amount": -14907.29,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5351,
+   "account_id": 161,
+   "date": "2025-05-16",
+   "amount": 11418.52,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5352,
+   "account_id": 161,
+   "date": "2025-07-12",
+   "amount": 1004.3,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5353,
+   "account_id": 162,
+   "date": "2025-07-11",
+   "amount": -17820.58,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5354,
+   "account_id": 162,
+   "date": "2025-08-23",
+   "amount": -8816.26,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5355,
+   "account_id": 163,
+   "date": "2025-08-13",
+   "amount": 2074.45,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5356,
+   "account_id": 163,
+   "date": "2025-04-07",
+   "amount": -2315.23,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5357,
+   "account_id": 163,
+   "date": "2025-07-18",
+   "amount": 14555.04,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5358,
+   "account_id": 163,
+   "date": "2025-01-03",
+   "amount": 3958.85,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5359,
+   "account_id": 163,
+   "date": "2025-06-20",
+   "amount": 8725.8,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5360,
+   "account_id": 163,
+   "date": "2025-09-11",
+   "amount": 20235.42,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5361,
+   "account_id": 163,
+   "date": "2025-04-19",
+   "amount": 5457.57,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5362,
+   "account_id": 164,
+   "date": "2025-04-20",
+   "amount": 24955.39,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5363,
+   "account_id": 164,
+   "date": "2025-02-27",
+   "amount": 2041.52,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5364,
+   "account_id": 164,
+   "date": "2025-02-11",
+   "amount": -79.03,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5365,
+   "account_id": 164,
+   "date": "2025-04-14",
+   "amount": 14492.14,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5366,
+   "account_id": 164,
+   "date": "2025-01-06",
+   "amount": -1105.34,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5367,
+   "account_id": 165,
+   "date": "2025-09-09",
+   "amount": -10716.69,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5368,
+   "account_id": 165,
+   "date": "2025-07-06",
+   "amount": -824.4,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5369,
+   "account_id": 165,
+   "date": "2025-05-13",
+   "amount": 14631.18,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5370,
+   "account_id": 165,
+   "date": "2025-04-23",
+   "amount": -4361.96,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5371,
+   "account_id": 165,
+   "date": "2025-07-03",
+   "amount": 16436.47,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5372,
+   "account_id": 165,
+   "date": "2025-02-01",
+   "amount": -9916.86,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5373,
+   "account_id": 165,
+   "date": "2025-09-08",
+   "amount": 738.37,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5374,
+   "account_id": 165,
+   "date": "2025-04-18",
+   "amount": 6921.02,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5375,
+   "account_id": 165,
+   "date": "2025-04-02",
+   "amount": 1853.79,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5376,
+   "account_id": 166,
+   "date": "2025-01-20",
+   "amount": 3104.4,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5377,
+   "account_id": 166,
+   "date": "2025-06-08",
+   "amount": 11150.77,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5378,
+   "account_id": 166,
+   "date": "2025-08-19",
+   "amount": -9386.39,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5379,
+   "account_id": 167,
+   "date": "2025-04-14",
+   "amount": 16601.56,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5380,
+   "account_id": 167,
+   "date": "2025-04-12",
+   "amount": 1302.69,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5381,
+   "account_id": 167,
+   "date": "2025-02-03",
+   "amount": 2015.55,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5382,
+   "account_id": 167,
+   "date": "2025-03-30",
+   "amount": 845.13,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5383,
+   "account_id": 167,
+   "date": "2025-06-20",
+   "amount": 989.9,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5384,
+   "account_id": 167,
+   "date": "2025-03-07",
+   "amount": 2516.81,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5385,
+   "account_id": 167,
+   "date": "2025-08-22",
+   "amount": -8052.37,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5386,
+   "account_id": 167,
+   "date": "2025-02-01",
+   "amount": -19140.47,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5387,
+   "account_id": 168,
+   "date": "2025-04-04",
+   "amount": -16015.74,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5388,
+   "account_id": 168,
+   "date": "2025-03-22",
+   "amount": -6324.24,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5389,
+   "account_id": 168,
+   "date": "2025-01-19",
+   "amount": -13721.25,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5390,
+   "account_id": 169,
+   "date": "2025-04-02",
+   "amount": 5067.67,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5391,
+   "account_id": 169,
+   "date": "2025-02-28",
+   "amount": 2699.68,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5392,
+   "account_id": 170,
+   "date": "2025-05-24",
+   "amount": 6521.09,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5393,
+   "account_id": 170,
+   "date": "2025-05-22",
+   "amount": 22704.52,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5394,
+   "account_id": 171,
+   "date": "2025-08-14",
+   "amount": 2466.02,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5395,
+   "account_id": 171,
+   "date": "2025-08-02",
+   "amount": 13352.6,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5396,
+   "account_id": 172,
+   "date": "2025-01-28",
+   "amount": 18351.37,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5397,
+   "account_id": 172,
+   "date": "2025-05-03",
+   "amount": 697.06,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5398,
+   "account_id": 172,
+   "date": "2025-05-01",
+   "amount": 903.22,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5399,
+   "account_id": 172,
+   "date": "2025-04-09",
+   "amount": 2231.87,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5400,
+   "account_id": 172,
+   "date": "2025-07-15",
+   "amount": 2942.83,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5401,
+   "account_id": 172,
+   "date": "2025-08-28",
+   "amount": 2014.04,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5402,
+   "account_id": 172,
+   "date": "2025-03-20",
+   "amount": 2105.19,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5403,
+   "account_id": 172,
+   "date": "2025-02-03",
+   "amount": 2174.37,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5404,
+   "account_id": 172,
+   "date": "2025-05-28",
+   "amount": 20554.06,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5405,
+   "account_id": 173,
+   "date": "2025-07-05",
+   "amount": 19521.54,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5406,
+   "account_id": 173,
+   "date": "2025-07-13",
+   "amount": 5726.89,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5407,
+   "account_id": 173,
+   "date": "2025-05-26",
+   "amount": 2285.12,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5408,
+   "account_id": 173,
+   "date": "2025-08-12",
+   "amount": 2427.81,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5409,
+   "account_id": 173,
+   "date": "2025-06-20",
+   "amount": 10884.92,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5410,
+   "account_id": 173,
+   "date": "2025-07-18",
+   "amount": 567.91,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5411,
+   "account_id": 173,
+   "date": "2025-02-28",
+   "amount": -5658.11,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5412,
+   "account_id": 173,
+   "date": "2025-01-15",
+   "amount": -1029.1,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5413,
+   "account_id": 174,
+   "date": "2025-03-29",
+   "amount": 396.75,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5414,
+   "account_id": 174,
+   "date": "2025-03-11",
+   "amount": 2184.4,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5415,
+   "account_id": 174,
+   "date": "2025-07-20",
+   "amount": 20673.11,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5416,
+   "account_id": 174,
+   "date": "2025-07-08",
+   "amount": 108.59,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5417,
+   "account_id": 174,
+   "date": "2025-08-26",
+   "amount": -2945.77,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5418,
+   "account_id": 174,
+   "date": "2025-08-12",
+   "amount": 2745.17,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5419,
+   "account_id": 174,
+   "date": "2025-08-19",
+   "amount": -8615.67,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5420,
+   "account_id": 174,
+   "date": "2025-07-04",
+   "amount": -684.26,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5421,
+   "account_id": 175,
+   "date": "2025-03-11",
+   "amount": -1083.06,
+   "type": "Fee"
+  },
+  {
+   "transaction_id": 5422,
+   "account_id": 175,
+   "date": "2025-03-21",
+   "amount": 12603.72,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5423,
+   "account_id": 175,
+   "date": "2025-09-12",
+   "amount": 3161.61,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5424,
+   "account_id": 175,
+   "date": "2025-05-13",
+   "amount": 2117.83,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5425,
+   "account_id": 175,
+   "date": "2025-04-01",
+   "amount": 2752.87,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5426,
+   "account_id": 175,
+   "date": "2025-03-28",
+   "amount": 1451.18,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5427,
+   "account_id": 176,
+   "date": "2025-07-26",
+   "amount": 2344.42,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5428,
+   "account_id": 176,
+   "date": "2025-05-03",
+   "amount": -14479.62,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5429,
+   "account_id": 176,
+   "date": "2025-02-26",
+   "amount": 2075.88,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5430,
+   "account_id": 176,
+   "date": "2025-02-07",
+   "amount": -19248.48,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5431,
+   "account_id": 177,
+   "date": "2025-09-04",
+   "amount": 13638.57,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5432,
+   "account_id": 177,
+   "date": "2025-01-21",
+   "amount": 1997.9,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5433,
+   "account_id": 177,
+   "date": "2025-08-10",
+   "amount": -10768.24,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5434,
+   "account_id": 178,
+   "date": "2025-06-04",
+   "amount": 18695.37,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5435,
+   "account_id": 178,
+   "date": "2025-04-06",
+   "amount": 151.15,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5436,
+   "account_id": 178,
+   "date": "2025-07-21",
+   "amount": 13426.19,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5437,
+   "account_id": 178,
+   "date": "2025-06-17",
+   "amount": 1434.61,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5438,
+   "account_id": 179,
+   "date": "2025-07-18",
+   "amount": 593.45,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5439,
+   "account_id": 179,
+   "date": "2025-05-19",
+   "amount": 6851.19,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5440,
+   "account_id": 180,
+   "date": "2025-08-22",
+   "amount": 20677.02,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5441,
+   "account_id": 180,
+   "date": "2025-01-29",
+   "amount": -19617.06,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5442,
+   "account_id": 180,
+   "date": "2025-07-08",
+   "amount": 1285.41,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5443,
+   "account_id": 180,
+   "date": "2025-09-27",
+   "amount": 2362.74,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5444,
+   "account_id": 180,
+   "date": "2025-04-17",
+   "amount": 148.09,
+   "type": "Dividend"
+  },
+  {
+   "transaction_id": 5445,
+   "account_id": 180,
+   "date": "2025-05-20",
+   "amount": -2703.75,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5446,
+   "account_id": 181,
+   "date": "2025-01-26",
+   "amount": -3857.89,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5447,
+   "account_id": 181,
+   "date": "2025-07-03",
+   "amount": -1094.29,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5448,
+   "account_id": 181,
+   "date": "2025-03-30",
+   "amount": -5879.06,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5449,
+   "account_id": 181,
+   "date": "2025-02-26",
+   "amount": -11139.39,
+   "type": "Withdrawal"
+  },
+  {
+   "transaction_id": 5450,
+   "account_id": 181,
+   "date": "2025-08-15",
+   "amount": 8774.47,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5451,
+   "account_id": 181,
+   "date": "2025-01-17",
+   "amount": 24626.29,
+   "type": "Contribution"
+  },
+  {
+   "transaction_id": 5452,
+   "account_id": 181,
+   "date": "2025-03-22",
+   "amount": 2272.29,
+   "type": "Dividend"
+  }
+ ]
+}

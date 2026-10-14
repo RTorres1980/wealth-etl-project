@@ -1,0 +1,7 @@
+table,check,rows_affected,detail
+clients,normalized name casing/whitespace,3,
+clients,normalized wealth_segment label,1,
+clients,"missing age (kept, excluded from glide-path check)",2,
+accounts,normalized account_type,2,
+holdings,removed exact duplicate rows,3,
+accounts,balance does not tie to holdings (> $1.00),3,"acct 119: diff $20,411.81; acct 142: diff $874.89; acct 179: diff $6,284.87"
